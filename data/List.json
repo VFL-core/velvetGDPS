@@ -1,0 +1,24 @@
+{
+  "list_name": "VelvetGDPS Official Demonlist",
+  "last_updated": "2026-06-02",
+  "list": [
+    {
+      "rank": 1,
+      "level_id": 1001,
+      "name": "Crimson Flare",
+      "creator": "hiimjasmine00",
+      "verifier": "velvetGD",
+      "points": 250.0,
+      "description": "The definitive top extreme demon of VelvetGDPS."
+    },
+    {
+      "rank": 2,
+      "level_id": 1002,
+      "name": "Example Demon",
+      "creator": "CreatorName",
+      "verifier": "PlayerName",
+      "points": 200.0,
+      "description": "Place holder entry for the list structure."
+    }
+  ]
+}
